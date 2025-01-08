@@ -8,12 +8,12 @@ Currently, I am transitioning into the tech industry, combining my background in
 
 I take pride in being approachable, empathetic, and always willing to help. Whether collaborating with a team or working independently, I bring energy, focus, and an eagerness to learn. My ultimate goal is to create digital experiences that leave a lasting impression, and I am excited to continue growing in this dynamic field.
 
-## Skills
+## Skills  
 
-- **Languages:** JavaScript, HTML, CSS, SQL, Python  
-- **Frameworks and Libraries:** React, Node.js, Express, Handlebars, Bootstrap  
-- **Tools and Platforms:** Git, GitHub, MongoDB, MySQL, VS Code, Figma, Postman  
-- **Other Skills:** UI/UX design, project management, team leadership, problem-solving  
+- **Languages & Technologies:** JavaScript, HTML, CSS, SQL  
+- **Frameworks & Libraries:** React, Node.js, Express, Handlebars, Bootstrap  
+- **Tools & Platforms:** Git, GitHub, MongoDB, MySQL, VS Code, Figma, Postman  
+- **Other Skills:** UI/UX Design, Agile Project Management, Team Leadership, Problem-Solving, Effective Communication, SCRUM  
 
 ## Projects
 
@@ -29,9 +29,9 @@ A web application to manage elimination tournaments and match players or teams.
 
 ## Contact Me
 
-- **Email:** [rickyjary.dev@gmail.com](mailto:rickyjary.dev@gmail.com)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ricardo-dev)  
-- **Twitter:** [@RickyJary](https://twitter.com/RickyJary)
+- **Email:** [rickyjary.dev@gmail.com](mailto:ricardogarciajarillo@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ricardo-garcia-jarillo/)  
+
 
 ## GitHub Stats
 
