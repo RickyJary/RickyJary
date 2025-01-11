@@ -29,7 +29,7 @@ A web application to manage elimination tournaments and match players or teams.
 
 ## Contact Me
 
-- **Email:** [rickyjary.dev@gmail.com](mailto:ricardogarciajarillo@gmail.com)  
+- **Email:** [ricardogarciajarillo@gmail.com](mailto:ricardogarciajarillo@gmail.com)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ricardo-garcia-jarillo/)  
 
 
