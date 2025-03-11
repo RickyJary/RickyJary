@@ -14,8 +14,7 @@ Colleagues describe me as approachable, empathetic, and always willing to lend a
 
 - **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind, Figma  
 - **Backend:** Node.js, Express.js, MongoDB, MySQL, RESTful APIs, Multer  
-- **Integrations:** External APIs for enhanced artist profiles  
-- **Features:** Advanced search, dynamic pricing calculation, and role-based user access  
+- **Integrations:** External APIs
 - **Development:** RESTful APIs, role-based authentication, and file uploading (Multer)  
 
 ---
@@ -27,7 +26,7 @@ Colleagues describe me as approachable, empathetic, and always willing to lend a
 Full-stack web platform connecting agencies, promoters, and artists for streamlined booking and talent management.
 
 - Built with React & Tailwind (Frontend), Node.js & Express (Backend), MongoDB (Database)  
-- External API integrations for enhanced artist profiles  
+- External API integrations (Spotify) for enhanced artist profiles  
 - Advanced search, dynamic pricing calculation, and role-based user access  
 - Developed RESTful APIs, role-based authentication, and file uploading (Multer)
 
