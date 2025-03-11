@@ -22,7 +22,7 @@ Colleagues describe me as approachable, empathetic, and always willing to lend a
 
 ### 🎯 Highlighted Projects
 
-#### 🎵 [GigBoard](https://gigboard.vercel.app)
+#### 🎵 [GigBoard](https://gig-board-lz4a.vercel.app/)
 
 Full-stack web platform connecting agencies, promoters, and artists for streamlined booking and talent management.
 
@@ -31,7 +31,7 @@ Full-stack web platform connecting agencies, promoters, and artists for streamli
 - Advanced search, dynamic pricing calculation, and role-based user access  
 - Developed RESTful APIs, role-based authentication, and file uploading (Multer)
 
-#### 🎮 [IronHacklaga](https://ironhacklaga.vercel.app)
+#### 🎮 [IronHacklaga](https://ironhacklaga.netlify.app/)
 
 Retro-inspired arcade shooter game featuring interactive power-ups, enemy AI, and engaging visuals.
 
@@ -39,7 +39,7 @@ Retro-inspired arcade shooter game featuring interactive power-ups, enemy AI, an
 - Creative implementation of collision detection and animated gameplay elements  
 - Responsive game design for various screen sizes  
 
-#### 🏆 [Tournament Forge](https://github.com/RickyJary/Tournament-Forge)
+#### 🏆 [Tournament Forge](https://tournamentforge.fly.dev/)
 
 Tournament management app for knockout-style competitions.
 
@@ -51,7 +51,7 @@ Tournament management app for knockout-style competitions.
 ### 📫 Connect with me
 
 - 📧 [ricardogarciajarillo@gmail.com](mailto:ricardogarciajarillo@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ricardogarciajarillo)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ricardo-garcia-jarillo/)
 
 ---
 
