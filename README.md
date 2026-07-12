@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Ricardo
 
 ## 🚀 About Me
@@ -74,13 +74,13 @@ A web application for creating and managing knockout tournaments.
 
 ## 📊 GitHub Stats
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyJary&show_icons=true&theme=radical)
+![Ricardo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickyJary&theme=radical)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyJary&layout=compact&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RickyJary&theme=radical)
 
 ---
 
 I'm currently improving my development skills, working on personal projects, and looking for opportunities where I can contribute, learn, and grow as part of a team.
-```
+
