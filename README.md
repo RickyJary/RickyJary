@@ -1,67 +1,86 @@
-# 👋 Hi! I'm Ricardo
+```markdown
+# 👋 Hi, I'm Ricardo
 
 ## 🚀 About Me
 
-I'm Ricardo, a highly motivated professional driven by technology, creativity, and leadership. With a diverse background that spans from detailed administrative roles to leading a successful music group across Europe for over a decade, I've developed strong adaptability, strategic thinking, and the ability to inspire teams.
+I'm a web developer with a background in technology, administration, music, and team management.
 
-I'm passionate about solving problems, building engaging digital experiences, and continuously evolving my skills. After earning my certification in Web Development at Ironhack, I'm now focused on creating impactful digital products with a particular interest in gaming and interactive experiences.
+Before moving into web development, I spent more than ten years working as a DJ and music producer, leading a music project and performing across Europe. That experience taught me how to manage projects, collaborate with different people, adapt quickly, and solve problems under pressure.
 
-Colleagues describe me as approachable, empathetic, and always willing to lend a hand. I'm eager to contribute my skills to innovative projects, especially in web development, digital product design, and the gaming industry.
+After completing the Web Development Bootcamp at Ironhack, I started building full-stack applications using technologies such as React, Node.js, Express, and MongoDB.
 
----
-
-### 🚀 Technical Skills
-
-- **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind, Figma  
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, RESTful APIs, Multer  
-- **Integrations:** External APIs
-- **Development:** RESTful APIs, role-based authentication, and file uploading (Multer)  
+I enjoy turning ideas into working products and creating digital experiences that are useful, engaging, and easy to use. I'm particularly interested in web development, digital products, gaming, and interactive experiences.
 
 ---
 
-### 🎯 Highlighted Projects
+## 🛠️ Technical Skills
 
-#### 🎵 [GigBoard](https://gig-board-lz4a.vercel.app/)
-
-Full-stack web platform connecting agencies, promoters, and artists for streamlined booking and talent management.
-
-- Built with React & Tailwind (Frontend), Node.js & Express (Backend), MongoDB (Database)  
-- External API integrations (Spotify) for enhanced artist profiles  
-- Advanced search, dynamic pricing calculation, and role-based user access  
-- Developed RESTful APIs, role-based authentication, and file uploading (Multer)
-
-#### 🎮 [IronHacklaga](https://ironhacklaga.netlify.app/)
-
-Retro-inspired arcade shooter game featuring interactive power-ups, enemy AI, and engaging visuals.
-
-- Developed with vanilla JavaScript, CSS animations, and DOM manipulation  
-- Creative implementation of collision detection and animated gameplay elements  
-- Responsive game design for various screen sizes  
-
-#### 🏆 [Tournament Forge](https://tournamentforge.fly.dev/)
-
-Tournament management app for knockout-style competitions.
-
-- MVC architecture and scalable JavaScript components  
-- Custom logic for player/team matching and trophy awarding system  
+- **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Development:** REST APIs, authentication, role-based access, and file uploads with Multer
+- **Tools and Design:** Git, GitHub, Figma
+- **Integrations:** External APIs, including Spotify
 
 ---
 
-### 📫 Connect with me
+## 🚀 Projects
 
-- 📧 [ricardogarciajarillo@gmail.com](mailto:ricardogarciajarillo@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ricardo-garcia-jarillo/)
+### 🎵 [GigBoard](https://gig-board-lz4a.vercel.app/)
+
+A full-stack platform designed to connect artists, agencies, and promoters while simplifying booking and talent management.
+
+- Frontend built with React and Tailwind CSS
+- Backend developed with Node.js and Express
+- MongoDB database
+- Spotify API integration for artist profiles
+- Role-based authentication and permissions
+- Advanced search and dynamic pricing
+- Image and file uploads using Multer
 
 ---
 
-### 💻 GitHub Stats
+### 🎮 [IronHacklaga](https://ironhacklaga.netlify.app/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyJary&show_icons=true&theme=radical)
+A retro-style arcade shooter built with vanilla JavaScript.
 
-### ⚡ Most Used Languages
+- Collision detection and enemy movement logic
+- Power-ups and different enemy behaviours
+- CSS animations and DOM manipulation
+- Responsive design for different screen sizes
+- Original visual style inspired by classic arcade games
+
+---
+
+### 🏆 [Tournament Forge](https://tournamentforge.fly.dev/)
+
+A web application for creating and managing knockout tournaments.
+
+- Built using an MVC architecture
+- Player and team management
+- Automatic tournament matchmaking
+- Custom logic for tournament progression
+- Trophy and winner system
+
+---
+
+## 📫 Contact
+
+- 📧 [ricardogarciajarillo@gmail.com](mailto:ricardogarciajarillo@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-garcia-jarillo/)
+- 🌐 [Portfolio](https://www.ricardogarciajarillo.com/)
+
+---
+
+## 📊 GitHub Stats
+
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyJary&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyJary&layout=compact&theme=radical)
 
 ---
 
-📩 **Open for collaboration and excited to tackle new challenges!**
+I'm currently improving my development skills, working on personal projects, and looking for opportunities where I can contribute, learn, and grow as part of a team.
+```
